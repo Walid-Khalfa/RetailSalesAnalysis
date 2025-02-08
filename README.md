@@ -68,7 +68,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or inquiries, please contact [Your Name](mailto:your-email@example.com).
+For any questions or inquiries, please contact [Walid Khalfa](khelfawalid@gamail.com).
 ```
 
 Feel free to customize the `README.md` file with any additional details specific to your project. Once you're satisfied with the content, you can add it to your GitHub repository:
